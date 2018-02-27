@@ -13,7 +13,7 @@
                 duration = 20
                 break;
             case 'fast':
-                duration = 1
+                duration = 0.25
                 break
             default:
                 break
